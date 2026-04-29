@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Bahadur</h1>
-<h3 align="center">🚀 B.Tech Student | 💻 Aspiring Software Engineer | 📸 Nature Photographer</h3>
+<h3 align="center">🚀 B.Tech Student | 💻 Aspiring Software Engineer
 
 <p align="center">
 Passionate about building scalable tech solutions and exploring the world through photography.  
