@@ -8,7 +8,7 @@ I enjoy working on real-world projects involving web development, AI, and system
 
 ---
 
-### 📌 About Me
+📌 About Me
 - 🎓 B.Tech Student with strong interest in Software Development & AI  
 - 💡 Currently building projects in **Web Development & Machine Learning**  
 - 📸 Passionate about **Nature Photography & Visual Storytelling**  
@@ -16,12 +16,11 @@ I enjoy working on real-world projects involving web development, AI, and system
 
 ---
 
-### 📫 Contact Me
+📫 Contact Me
 - 📧 Email: **vishal80909@gmail.com**  
 
 ---
-
-### 🌐 Connect with Me
+🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/vishalbahadur" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -33,12 +32,12 @@ I enjoy working on real-world projects involving web development, AI, and system
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
 </a>
 </p>
-### ⚡ What I'm Working On
+ ⚡ What I'm Working On
 - 🌐 Full-stack web applications  
 - 🤖 AI-powered tools & automation projects  
 - 📊 Improving problem-solving on HackerRank  
 
 ---
 
-### 🎯 Goal
+ 🎯 Goal
 To become a skilled Software Engineer and build impactful tech solutions that solve real-world problems.
